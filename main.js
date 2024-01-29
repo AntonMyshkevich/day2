@@ -15,7 +15,7 @@ console.log(`2 + 2 = ${2+2}`)
 console.log( 5 % 2 );
 console.log( 2 ** 8 );
 console.log( 2 + true );
-let x; //undefined
+let x=1; //undefined
 console.log(x+1); // undefined
 console.log(x+String(1)); //будет undefined1
 console.log(x**x);
