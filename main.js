@@ -19,3 +19,4 @@ let x; //undefined
 console.log(x+1); // undefined
 console.log(x+String(1)); //будет undefined1
 console.log(x**x);
+console.log(x**(x**2));
